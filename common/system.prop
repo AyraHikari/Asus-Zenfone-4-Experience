@@ -1,0 +1,17 @@
+persist.camera.HAL3.enabled=1
+persist.camera.eis.enable=1
+ro.product.model=ASUS_X00ID
+ro.product.brand=asus
+ro.product.name=WW_Phone
+ro.build.asus.sku=WW
+ro.build.product=ASUS_X00ID
+ro.product.device=ASUS_X00ID
+ro.build.product=land
+ro.product.cam.manufacturer=asus
+ro.product.manufacturer=asus
+ro.external.version.code=WW_Phone-15.2016.1809.412-0
+ro.asus.project.name=ZC554KL
+ro.build.asus.version=15.2016.1809.412
+ro.vendor.product.manufacturer=asus
+ro.vendor.product.brand=asus
+ro.product.device=ASUS_X00ID

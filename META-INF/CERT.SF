@@ -1,0 +1,64 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: oQM7BEYaBHiMA/BPviwz5LYqarQ=
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest-Manifest: pVUJ9D5th6d2sD8aeNp5zhiBUcs=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest-Manifest: GpYY2DQsFxGPbY6bJkpDYrtJzX4=
+
+Name: common/prints.sh
+SHA1-Digest-Manifest: shFCGlmhh2dP4iw77gpXzMiH2d4=
+
+Name: .gitattributes
+SHA1-Digest-Manifest: 4KdJYuBAIETTfrrmTfg1eJDDMq8=
+
+Name: common/busybox-arm64.md5
+SHA1-Digest-Manifest: UyE4e6HBEA0A+TsBig8s1mRX0kA=
+
+Name: system/binpath/props
+SHA1-Digest-Manifest: uU+rdpUyYlXjAeU3PYKG3qGFz4U=
+
+Name: common/busybox-x86.md5
+SHA1-Digest-Manifest: B5kS7y111TvYc22MTWWoH2tFUms=
+
+Name: config.sh
+SHA1-Digest-Manifest: TNqPR6+xKBslRkkoslh8Yf6e1Ew=
+
+Name: README.md
+SHA1-Digest-Manifest: jqvmFyYHG0niZ7XX5Kg5R1isPsA=
+
+Name: module.prop
+SHA1-Digest-Manifest: j3VdbBl0BoRuTiDAWX4wTxeqVmw=
+
+Name: common/busybox-x86_64.md5
+SHA1-Digest-Manifest: aF+ULOSNQag3a7yjyW6gkvbBJ9U=
+
+Name: common/busybox-arm.md5
+SHA1-Digest-Manifest: arP62zNoalqPVEDMgrHlH4VGssA=
+
+Name: common/busybox-mips.md5
+SHA1-Digest-Manifest: ktCNpGbstlM0MKpDjqRnOxrZy10=
+
+Name: common/util_functions.sh
+SHA1-Digest-Manifest: cQBsjfa5EQ+TraoOqh8+CyDmXxA=
+
+Name: common/post-fs-data.sh
+SHA1-Digest-Manifest: CkQaeDotDtc59OttMFRLj9eosU4=
+
+Name: common/busybox-mips64.md5
+SHA1-Digest-Manifest: Z1+HYlWLn5/WJnpfoz1NKlImdOA=
+
+Name: common/propsconf_conf
+SHA1-Digest-Manifest: 226RXwlZCGfJmIFFETBtpYismU8=
+
+Name: common/propsconf_late
+SHA1-Digest-Manifest: fhspkcZSEUMqPwM/NdvPYqWuEYI=
+
+Name: LICENSE
+SHA1-Digest-Manifest: dZGuGjokdAN1mTw+REdfV2OvR1o=
+
+Name: common/propsconf_post
+SHA1-Digest-Manifest: tZp2AxNJEjeWuEk9QR/DNxbifJg=
+
