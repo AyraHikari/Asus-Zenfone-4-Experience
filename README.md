@@ -1,4 +1,4 @@
-<h2 align="center">Asus Zenfone 4 Experience</p>
+<h1 align="center">Asus Zenfone 4 Experience</p>
 
 
 ## There is a simple module that contain:
@@ -24,8 +24,7 @@
 - Android 8.1.0 oreo (Pie supported)
 
 ### Updates
-# v1
-- Initial ported
+* v1 - Initial ported
 
 ## Source
 * [Github](https://github.com/AyraHikari/Asus-Zenfone-4-Experience "Source")
